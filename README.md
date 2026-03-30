@@ -1,4 +1,4 @@
-CCPF-cp1-Prompt-AI-MAtheus-RM:567261
+CCPF-cp1-Prompt-AI-MAtheus-
 
 ## Projeto de de IA para craiar guias de estilo para sites e apps usando o Google AI Studio
 
